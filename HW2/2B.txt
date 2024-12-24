@@ -1,0 +1,1 @@
+XOR = λa.λb.a (NOT b) b

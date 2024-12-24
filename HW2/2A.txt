@@ -1,0 +1,1 @@
+EVEN = λn.n (λx.NOT x) TRUE

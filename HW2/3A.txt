@@ -1,0 +1,1 @@
+INVERT = λp.PAIR (NOT (FIRST p)) (NOT (SECOND p))

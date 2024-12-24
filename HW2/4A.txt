@@ -1,0 +1,1 @@
+HEAD = λlist.list (λhead.λtail.FALSE) TRUE (λf.f) (list (λhead.λtail.head))

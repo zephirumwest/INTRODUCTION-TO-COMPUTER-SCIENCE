@@ -1,0 +1,1 @@
+MULTIPLY = λm.λn.m ((λm.λn.m INCR n) n) 0

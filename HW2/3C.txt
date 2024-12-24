@@ -1,0 +1,6 @@
+RIGHTMOST = λchain. 
+  IF (IS_TRUE (SECOND chain)) 1 
+    (IF (IS_TRUE (SECOND (FIRST chain))) 2 
+      (IF (IS_TRUE (SECOND (FIRST (FIRST chain)))) 3 
+        (IF (IS_TRUE (FIRST (FIRST (FIRST chain)))) 4 
+          0)))
