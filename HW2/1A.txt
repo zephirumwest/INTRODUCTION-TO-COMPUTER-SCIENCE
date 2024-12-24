@@ -1,0 +1,1 @@
+INCR = λn.λf.λx.f((n f) x)
