@@ -1,4 +1,4 @@
-2022148083 김영서 컴퓨터과학입문 HW2 README file
+lambda함수와 관련된 과제입니다.
 
 1A
 INCR = λn.λf.λx.f (n f x)
